@@ -1,5 +1,10 @@
 # react-native-image-crop-picker
 
+### tips
+react-native-image-crop-picker": "git+https://github.com/psh24053/react-native-image-crop-picker.git#learnbot
+
+yarn add https://github.com/psh24053/react-native-image-crop-picker.git#learnbot
+
 [![Backers on Open Collective](https://opencollective.com/react-native-image-crop-picker/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-native-image-crop-picker/sponsors/badge.svg)](#sponsors)
 
 <img src="svg.svg" width="50%" height="50%" />
