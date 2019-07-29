@@ -10,3 +10,4 @@ import android.support.v4.content.FileProvider;
  */
 public class CropFileProvider extends FileProvider {
     // This class intentionally left blank.
+}
